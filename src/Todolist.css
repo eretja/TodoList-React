@@ -1,0 +1,13 @@
+.todolist{
+  width: 500px;
+  margin: o auto;
+  margin-top: 50 px;
+}
+
+.todolist .delete{
+  float: right;
+  color: red;
+  cursor: pointer;
+  display: none;
+
+}
